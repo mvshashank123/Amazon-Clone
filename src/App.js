@@ -37,6 +37,7 @@ function App() {
   console.log("user is", user);
 
   return (
+    //React Router
     <Router>
       <div className="app">
         <Switch>
